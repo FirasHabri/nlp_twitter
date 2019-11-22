@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis
+# Twitter Arabic Sentiment Analysis
 
 ## Overview: 
 Perform Arabic sentiment analysis on tweets using NLTK and classifies them by content if the person is a fan of Real Madrid FC or Barcelona FC.
